@@ -14,3 +14,5 @@ ORM keeps us from having to write SQL commands (it mostly writes the SQL backend
 donder means double understore
 
 donder methods - magic method, one is created in the model
+
+left off - https://www.youtube.com/watch?v=q4jPR-M0TAQ 4:01
