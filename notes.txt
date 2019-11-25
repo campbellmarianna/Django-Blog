@@ -1,3 +1,4 @@
+html```
 <!DOCTYPE html>
 <html>
   <head>
@@ -7,3 +8,9 @@
     
   </body>
 </html>
+```
+ORM keeps us from having to write SQL commands (it mostly writes the SQL backend for us)
+
+donder means double understore
+
+donder methods - magic method, one is created in the model
